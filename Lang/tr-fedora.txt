@@ -1,0 +1,8 @@
+# turkish dnf languagepack for zsh by subhanqedirli
+
+alias depo-güncelle="sudo dnf update" 
+alias paket-güncelle="sudo dnf update" 
+alias kur="sudo dnf install" 
+alias kaldır="sudo dnf remove" 
+alias ara="dnf search" 
+

@@ -1,0 +1,8 @@
+# azerbaijani dnf languagepack for zsh by subhanqedirli
+
+alias repo-güncəllə="sudo dnf update" 
+alias paket-güncəllə="sudo dnf update" 
+alias quraşdır="sudo dnf install" 
+alias paket-sil="sudo dnf remove" 
+alias axtar="dnf search" 
+

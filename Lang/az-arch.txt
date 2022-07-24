@@ -1,0 +1,8 @@
+# azerbaijani pacman languagepack for zsh by subhanqedirli
+
+alias repo-güncəllə="sudo pacman -Sy"  
+alias paket-güncəllə="sudo pacman -Su"  
+alias sistem-güncəllə="sudo pacman -Syyu"  
+alias quraşdır="sudo pacman -S"  
+alias paket-sil="sudo pacman -R"  
+alias axtar="pacman -Q"  

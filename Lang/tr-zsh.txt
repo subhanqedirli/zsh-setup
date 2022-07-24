@@ -1,0 +1,12 @@
+# turkish language pack for zsh by subhanqedirli
+
+alias kök="sudo su"  
+alias oluştur="touch"  
+alias taşı="mv"  
+alias kopyala="cp"  
+alias sil="rm"  
+alias liste="ls"  
+alias çık="exit"  
+alias kd="cd"  
+alias eğer="if"  
+alias yaz="echo"   

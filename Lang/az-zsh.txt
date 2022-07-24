@@ -1,0 +1,12 @@
+# azerbaijani language pack for zsh by subhanqedirli
+
+alias kök="sudo su"  
+alias yarad="touch"  
+alias daşı="mv"  
+alias kopyala="cp"  
+alias sil="rm"  
+alias list="ls"  
+alias çıx="exit"  
+alias yd="cd"  
+alias əgər="if"  
+alias yaz="echo"   

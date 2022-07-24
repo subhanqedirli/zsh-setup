@@ -1,0 +1,9 @@
+# azerbaijani apt languagepack for zsh by subhanqedirli
+
+alias repo-güncəllə="sudo apt-get update" 
+alias paket-güncəllə="sudo apt-get upgrade" 
+alias sistem-güncəllə="sudo apt-get full-upgrade" 
+alias quraşdır="sudo apt-get install" 
+alias paket-sil="sudo apt-get remove" 
+alias axtar="apt-cache search" 
+
