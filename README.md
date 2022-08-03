@@ -1,4 +1,4 @@
-# zsh-setup
+# ZSH Setup
 Ultimate ZSH setup with oh-my-zsh and language packages
 ## Installing
 ```
