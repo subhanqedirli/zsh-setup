@@ -44,7 +44,7 @@ fi
 
 # Set ZSH as default shell
 sudo chsh -s /usr/bin/zsh $USER
-
+chsh -s /usr/bin/zsh
 # Customizing ZSH
 
 touch ~/.zshrc
